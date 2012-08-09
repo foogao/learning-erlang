@@ -2,6 +2,7 @@
 %% Created: Aug 6, 2012
 %% Description: TODO: Add description to person
 -module(person).
+-author("Steve Gao").
 
 %%
 %% Include files
